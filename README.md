@@ -7,7 +7,11 @@ pip install nextcord
 ```
 
 ```
-pip install discord.py
+pip install nextcord-ext-menus
 ```
+
+
+
+
 
 Subscribe to me: https://www.youtube.com/channel/UC7U0-LOjgfTHIjs91ydTrww/featured
